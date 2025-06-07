@@ -5,7 +5,7 @@
 ## 🚀 Demo
 
 Coba game ini langsung di browser:
-🔗 [Blind Maze - Demo](https://rzlam.github.io/projects/blindmaze)
+🔗 [Blind Maze - Demo](https://rzlam.github.io/blind-maze/)
 
 ---
 
