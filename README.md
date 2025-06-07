@@ -3,12 +3,14 @@
 🎮 ini adalah game hasil lomba LKS Web Design Technology Kabupaten Pemalang 2025
 
 ## 🚀 Demo
+
 Coba game ini langsung di browser:
 🔗 [Blind Maze - Demo](https://rzlam.github.io/projects/blindmaze)
 
 ---
 
 ## 📌 Fitur
+
 ✅ Gameplay seru dan menantang 🔥  
 ✅ Tampilan minimalis dan responsif 💻  
 ✅ Dikembangkan dengan **Vanilla JavaScript**, tanpa library tambahan ⚡  
@@ -39,6 +41,7 @@ Tidak perlu instalasi tambahan, cukup buka di browser favoritmu! 🚀
 ---
 
 ## 🛠️ Teknologi yang Digunakan
+
 - **HTML** - Struktur halaman
 - **CSS** - Styling dan animasi
 - **JavaScript (Vanilla)** - Logika game
@@ -46,7 +49,8 @@ Tidak perlu instalasi tambahan, cukup buka di browser favoritmu! 🚀
 ---
 
 ## 💡 Kontribusi
-Mau ikut mengembangkan atau memberikan saran? Silakan fork dan buat pull request. Semua kontribusi sangat dihargai! 🚀
+
+Mau ikut mengembangkan atau memberikan saran? Silakan fork dan buat pull request. Semua kontribusi sangat dihargai!
 
 1. Fork repositori ini 🍴
 2. Buat branch baru (`git checkout -b fitur-keren`) 🌿
@@ -57,6 +61,7 @@ Mau ikut mengembangkan atau memberikan saran? Silakan fork dan buat pull request
 ---
 
 ## 📜 Lisensi
+
 Proyek ini dirilis di bawah lisensi **MIT**. Bebas digunakan, dimodifikasi, dan disebarluaskan dengan tetap mencantumkan kredit kepada pengembang. 😊
 
 ---
